@@ -1,0 +1,50 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Flutter builds
+build/
+
+# iOS
+.generated/
+.ios/
+Flutter.framework/
+Generated.xcconfig
+app.xcodeproj/
+app.xcworkspace/
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/Flutter.podspec
+ios/Podfile
+ios/Podfile.lock
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/ServiceDefinitions.json
+ios/Runner/Info.plist
+
+# Android
+.gradle/
+.idea/
+.settings/
+.project
+.classpath
+local.properties
+.externalNativeBuild/
+android/.cxx/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Web
+.dart_tool/
+build/
+
+# JetBrains
+*.iml
+.idea/
+
+# VS Code
+.vscode/
