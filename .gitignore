@@ -7,7 +7,7 @@
 .pub/
 
 # Flutter builds
-build/
+
 
 # iOS
 .generated/
